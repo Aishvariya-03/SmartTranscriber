@@ -18,7 +18,7 @@ A Python-based tool that **automatically detects and transcribes audio/video fil
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/media-transcriber.git
+   git clone https://github.com/Aishvariya-03/media-transcriber.git
    cd media-transcriber
    ```
 
